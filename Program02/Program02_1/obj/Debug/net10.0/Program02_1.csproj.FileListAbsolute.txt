@@ -1,0 +1,15 @@
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\bin\Debug\net10.0\Program02_1.exe
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\bin\Debug\net10.0\Program02_1.deps.json
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\bin\Debug\net10.0\Program02_1.runtimeconfig.json
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\bin\Debug\net10.0\Program02_1.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\bin\Debug\net10.0\Program02_1.pdb
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.AssemblyInfoInputs.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.AssemblyInfo.cs
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.csproj.CoreCompileInputs.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.sourcelink.json
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\refint\Program02_1.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.pdb
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\Program02_1.genruntimeconfig.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Program02\Program02_1\obj\Debug\net10.0\ref\Program02_1.dll
