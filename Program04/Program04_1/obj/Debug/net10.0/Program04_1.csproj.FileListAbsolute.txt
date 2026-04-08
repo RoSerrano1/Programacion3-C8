@@ -1,0 +1,15 @@
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\bin\Debug\net10.0\Program04_1.exe
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\bin\Debug\net10.0\Program04_1.deps.json
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\bin\Debug\net10.0\Program04_1.runtimeconfig.json
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\bin\Debug\net10.0\Program04_1.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\bin\Debug\net10.0\Program04_1.pdb
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.AssemblyInfoInputs.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.AssemblyInfo.cs
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.csproj.CoreCompileInputs.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.sourcelink.json
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\refint\Program04_1.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.pdb
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\Program04_1.genruntimeconfig.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Program04\Program04_1\obj\Debug\net10.0\ref\Program04_1.dll
