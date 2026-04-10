@@ -1,4 +1,4 @@
-﻿﻿namespace Programa03;
+﻿﻿namespace Program03;
 
 class Program
 {
