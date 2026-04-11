@@ -3,6 +3,8 @@ class Program
 {
     static void Main (string [] args)
     {
+        //EJERCICIO 1:
+        
     Console.WriteLine("-----Bloque 1: Stock de una tienda");
     int gaseosas = 20;
     int galletas = 12;

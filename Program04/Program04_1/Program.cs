@@ -3,6 +3,8 @@ class Program
 {
     static void Main (string [] args)
     {
+        //EJERCICIO 2:
+
         string persona1= "Antonio Jimenez";
         string persona2= "Juana Gutierrez";
         string persona3= "Maria Ortiz";

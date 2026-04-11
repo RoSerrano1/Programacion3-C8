@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
+        //EJERCICIO 1:
+        
         Console.WriteLine("--- BLOQUE 2: NÚMEROS CON DECIMALES ---");
         Console.WriteLine("Bienvenidos al parque de diversiones");
         double alturaPermitida = 1.60;

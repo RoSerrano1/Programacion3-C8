@@ -3,6 +3,8 @@ class Program
 {
    static void Main (string [] args)
     {
+        //EJERCICIO 2:
+        
         Console.WriteLine("Gestion de Ventas");
         decimal Aceite= 4.500m;
         decimal Arroz = 1.000m;
