@@ -1,0 +1,15 @@
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\bin\Debug\net10.0\Ejercicio3_arrays.exe
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\bin\Debug\net10.0\Ejercicio3_arrays.deps.json
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\bin\Debug\net10.0\Ejercicio3_arrays.runtimeconfig.json
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\bin\Debug\net10.0\Ejercicio3_arrays.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\bin\Debug\net10.0\Ejercicio3_arrays.pdb
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.AssemblyInfoInputs.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.AssemblyInfo.cs
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.csproj.CoreCompileInputs.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.sourcelink.json
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\refint\Ejercicio3_arrays.dll
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.pdb
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\Ejercicio3_arrays.genruntimeconfig.cache
+C:\Users\rochi\Desktop\Programacion3-C8\Ejercicio3_arrays\obj\Debug\net10.0\ref\Ejercicio3_arrays.dll
