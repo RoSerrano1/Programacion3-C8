@@ -1,0 +1,7 @@
+Crear un pograma que solicite al usuario ingresar 20 nombres y edades. Si la edad es mayor de 30 años mostrar mensaje puede ingresar y si es menor a 30 años no puede ingresar.
+//-------------
+Pasos:
+1. Declaro una variable cantidad y los arreglos de edad y nombres declarando la cantidad de elementos.
+2. Mediante un bucle for solicitamos al usuario que ingrese 20 nombres y edades.
+3. Dentro del bucle for se realiza un if en donde la condicion es edad<30, si esto se cumple mostramos el mensaje "¡Lo siento, no puede ingresar!"
+y si esto no se cumple mostramos el mensaje "¡Bienvenido al boliche, puede ingresar!". 
